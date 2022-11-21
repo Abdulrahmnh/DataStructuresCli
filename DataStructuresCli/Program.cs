@@ -10,21 +10,15 @@ namespace DataStructuresCli
     {
         static void Main(string[] args)
         {
-            List<String> names = new List<string>
-            {
-                "Mohammed",
-                "Khalid",
-                "Waleed",
-                "Nasser",
-                "Leen",
-                "Sara",
-                "Lujain",
-                "Shahad"};
-            foreach(String name in names)
-            {
-                Console.WriteLine("Give " + name + "a laptop");
-                Console.WriteLine("Give " + name + "the projct designs");
-            }
+            Console.WriteLine("Type a name to give him/her what he/she needs");
+            Console.WriteLine("Type exit at anytime to close the app");
+
+            String input = Console.ReadLine();
+            Dictionary<String, bool> dictionary = new Dictionary<string, bool>();
+            dictionary.Add(input, true);
+            Console.WriteLine("Give " + input + " a laptop");
+            Console.WriteLine("Give " + input + " the project design");
+
             Console.ReadKey();
         }
     }
