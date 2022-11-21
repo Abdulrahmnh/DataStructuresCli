@@ -1,0 +1,7 @@
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\bin\Debug\DataStructuresCli.exe.config
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\bin\Debug\DataStructuresCli.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\bin\Debug\DataStructuresCli.pdb
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\obj\Debug\DataStructuresCli.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\obj\Debug\DataStructuresCli.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\obj\Debug\DataStructuresCli.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\DataStructuresCli\DataStructuresCli\obj\Debug\DataStructuresCli.pdb
